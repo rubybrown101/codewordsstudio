@@ -1,1 +1,26 @@
+var song;
+var analyzer;
 
+function setup() {
+  song = loadSound('data/lucky_dragons_-_power_melody.mp3');
+  createCanvas(windowWidth, windowHeight);
+  background(255, 0, 0);
+}
+
+function draw(){
+  background(0,50);
+  var volume=analyzer.getLevel();
+  volume=(volume*200)+10;
+  ellipse (windowWidth/2, windowHeight/2, volume, volume);
+}
+
+function mousePressed() {
+  if (song.isPlaying()) {
+    // .isPlaying() returns a boolean
+    song.stop();
+    background(255, 0, 0);
+  } else {
+    song.play();
+    background(0, 255, 0);
+  }
+}
