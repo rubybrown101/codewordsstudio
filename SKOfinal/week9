@@ -1,1 +1,47 @@
+const letters='CLAIMING NEW TERRITORY FOR PRACTICE';
+var rand, listLength;
+
+var yVal; 
+var accel; 
+var velocity; 
+var mass; 
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  textSize(40);
+  noStroke();
+  textFont('Times');
+  listLength=letters.length;
+  //frameRate(10);
+  
+  yVal = 0;  
+  velocity = 0; 
+  mass = 100; 
+  
+  accel = mass * 0.1; 
+}
+
+function draw() {
+  rand = int(random(0, listLength-1));
+    createCanvas(mouseX, mouseY);
+  background(200,150,50);
+  fill(255);
+  textSize(10);
+  text(letters, width/4,yVal, windowWidth,windowHeight/10);
+  background(255,1);
+  
+  velocity += accel; 
+  yVal += velocity;
+ text (width/2,yVal, mass,mass); 
+
+  
+  if (yVal > height - mass/2) {
+    // A little dampening when hitting the bottom
+    velocity *= -0.6;
+    yVal = height - mass/2;
+  }
+}
+
+function mousePressed () {
+}
 
