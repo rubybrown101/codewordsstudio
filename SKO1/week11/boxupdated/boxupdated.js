@@ -1,18 +1,19 @@
 let angle = 0; 
-let sentence = 'C L A I M I N G N E W T E R R I T O R Y F O R P R A C T I C E';
+let sentence = ('C L A I M I N G N E W T E R R I T O R Y F O R P R A C T I C E');
 let letters = sentence.split(' ');
 let moverA;
 let moverB;
 let moverC;
-
+let moverD;
 
 function setup() {
 createCanvas (windowWidth, windowHeight);
- moverA = new Mover( 0, 30, 10);
+ moverA = new Mover(10, 10, 5);
   // A smaller Mover on the right side of the window
-  moverB = new Mover(440, 30, 2);
+  moverB = new Mover(101, 30, 6);
   // a medium Mover in the middle of the window
-  moverC = new Mover (windowWidth/2, 30, 5);
+  moverC = new Mover (102, 30, 7);
+  moverD = new Mover (103, 30, 8);
 angleMode(RADIANS);
  
 }
@@ -26,17 +27,21 @@ fill(255);
 rectMode(CENTER);
 rect (0, 0, windowWidth/1.5, windowHeight/1.5);
 angle = angle+0.1;
-let gravity = createVector(0, 0.5);
+
+
+let gravity = createVector(0, 0.3);
   moverA.applyForce(gravity);
   moverB.applyForce(gravity);
   moverC.applyForce(gravity);
+  moverD.applyForce(gravity);
   
 
   if (mouseIsPressed) {
-    let wind = createVector(0.4, 0);
+    let wind = createVector(0, 0.4);
     moverA.applyForce(wind);
     moverB.applyForce(wind);
     moverC.applyForce(wind);
+    moverD.applyForce(wind);
   }
 
   moverA.update();
@@ -51,7 +56,8 @@ let gravity = createVector(0, 0.5);
   moverC.display();
   moverC.checkEdges();
   
-  
-  
-  
+  moverD.update();
+  moverD.display();
+  moverD.checkEdges();
+
 }
