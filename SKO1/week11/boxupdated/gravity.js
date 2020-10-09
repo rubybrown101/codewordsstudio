@@ -18,15 +18,22 @@ class Mover {
   }
 
   display() {
+    translate( -200,0);
+    
     stroke(0);
     strokeWeight(0);
     fill(this.position.x, this.position.y, 150);
-    text(letters, this.position.x, this.position.y, this.mass * 16, this.mass * 16);
+    
+    for (var i = 0; i < letters.length; i++) {
+    text(letters[i], this.position.x, this.position.y * [i], this.mass * 16, this.mass * 16);
+    console.log(letters[i]);
+  }
+    
   }
 
   checkEdges() {
     if (this.position.x > windowWidth) {
-      this.position.x = windowWwidth;
+      this.position.x = windowWidth;
       this.velocity.x *= -1;
     } else if (this.position.x < 0) {
       this.velocity.x *= -1;
