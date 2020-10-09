@@ -1,9 +1,10 @@
 let angle = 0; 
-let sentence = ('C L A I M I N G N E W T E R R I T O R Y F O R P R A C T I C E');
+let sentence = 'C L A I M I N G N E W T E R R I T O R Y F O R P R A C T I C E';
 let letters = sentence.split(' ');
 let moverA;
 let moverB;
 let moverC;
+
 
 function setup() {
 createCanvas (windowWidth, windowHeight);
@@ -49,5 +50,8 @@ let gravity = createVector(0, 0.5);
   moverC.update();
   moverC.display();
   moverC.checkEdges();
-
+  
+  
+  
+  
 }
