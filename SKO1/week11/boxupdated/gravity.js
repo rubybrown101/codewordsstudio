@@ -21,7 +21,7 @@ class Mover {
     stroke(0);
     strokeWeight(0);
     fill(this.position.x, this.position.y);
-    text(letters, this.position.x/2.5,this.position.y/2.5,this.mass*100, this.mass*100);
+    text(letters, this.position.x/2,this.position.y/2,this.mass*55, this.mass*55);
   }
 
   checkEdges() {

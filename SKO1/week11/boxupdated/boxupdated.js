@@ -23,13 +23,13 @@ function draw() {
 background(0);
 translate (windowWidth/2, windowWidth/2);
 rotate (map (mouseX/150, 0, 60, 0, 60) ); 
-fill(255);
+fill(255, 255, 255, 30);
 rectMode(CENTER);
 rect (0, 0, windowWidth/1.5, windowHeight/1.5);
 angle = angle+0.1;
 
 
-let gravity = createVector(0, 0.3);
+let gravity = createVector(0, 1);
   moverA.applyForce(gravity);
   moverB.applyForce(gravity);
   moverC.applyForce(gravity);
@@ -37,7 +37,7 @@ let gravity = createVector(0, 0.3);
   
 
   if (mouseIsPressed) {
-    let wind = createVector(0, 0.4);
+    let wind = createVector(0, 1);
     moverA.applyForce(wind);
     moverB.applyForce(wind);
     moverC.applyForce(wind);
