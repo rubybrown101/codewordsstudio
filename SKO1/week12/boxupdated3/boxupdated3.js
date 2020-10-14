@@ -11,7 +11,7 @@ let moverH;
 
 function preload () {
   font = loadFont ('data/LetterGothicStd-BoldSlanted.otf');
-  font1 = loadFont ('data/MudraksharM1-K7BpA.ttf');
+  font1 = loadFont ('data/WOX-Striped_Triple_Demo.otf');
 }
 
 
@@ -42,7 +42,7 @@ function draw() {
 background(0);
 translate (windowWidth/2, windowWidth/2);
 rotate (map (mouseX/150, 0, 60, 0, 60) ); 
-fill(165);
+fill(250);
 rectMode(CENTER);
 rect (0, 0, windowWidth/1.5, windowHeight/1.5);
 angle = angle+0.1;
@@ -151,9 +151,9 @@ let gravity = createVector(0, -2);
   moverP.display();
   moverP.checkEdges();
   
-  fill(100);
+  fill(250);
   textFont(font);
   textSize (20);
-  text ('PRESS TO CLAIM', -500,-500);
+  text ('HOLD DOWN MOUSE TO CLAIM', -450,-450);
 
 }
