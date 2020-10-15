@@ -1,3 +1,8 @@
+//Original code adapted from 'the Coding Train' video '2.3: Simulating with Mass - The Nature of Code'
+//Code adapted by Jamie Tung
+//Code adapted by Karen Donachie 
+
+
 class Mover {
   constructor(x, y, m) {
     this.mass = m;
@@ -33,6 +38,9 @@ class Mover {
     } else {
       fill (200,250,50);
     }
+    
+
+    
     text(sentence, this.position.x/2,this.position.y/2,this.mass*55, this.mass*55);
   }
 
