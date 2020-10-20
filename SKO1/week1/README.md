@@ -6,4 +6,6 @@ The image shown below was sourced from Hit.FM
 
 Next we started to explore the world of code, and get into very basic, static graphics. 
 
-![](Screen20%Shot20%2020-10-2020%at20%2.17.1320%pm)
+![](R.PNG)
+![](B.PNG)
+![](Ru.PNG)
