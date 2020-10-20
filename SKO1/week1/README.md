@@ -3,3 +3,5 @@
 The image shown below was sourced from Hit.FM
 
 ![](mini-melbourne-minecraft.jpg)
+
+Next we started to explore the world of code, and get into very basic, static graphics. 
