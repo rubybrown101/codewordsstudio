@@ -15,3 +15,9 @@ Juriaan Schrofer, also a Dutch Typographer, practiced in the mid to late 20th Ce
 Phillipe Apeloig is a graphic designer who has been in the industry since the late 20th Century, working for huge companies such as Musee d'Orsay and the Louvre. Apeloig is known for his vibrant, dynamic typography that seems to 'dance' across the page. He uses screen printing to explore the world of typogrpahy past the computer generated platform and bring it into a deeper demention. Below is an example of Apeloig's revolutionary works.
 
 ![](PhillippeApeloig.jpg)
+
+
+**Assessment 2 Begins**
+
+This week we started our assignment, where we delved into the world of House of Leaves. My group consisted of Celia, Hamish, Fergus and myself, we were assigned chapter 4. We decided to explore this chapter through Club Penguin, it's been fun remeniscing on our childhood hours playing the games together! 
+
