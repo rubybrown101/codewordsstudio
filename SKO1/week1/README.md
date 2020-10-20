@@ -6,6 +6,6 @@ The image shown below was sourced from Hit.FM
 
 Next we started to explore the world of code, and get into very basic, static graphics. 
 
-![](R.PNG)
-![](B.PNG)
-![](Ru.PNG)
+![](R.png)
+![](B.png)
+![](Ru.png)
