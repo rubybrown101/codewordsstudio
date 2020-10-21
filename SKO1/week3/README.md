@@ -10,3 +10,4 @@ During class we also entered into the (turns out to be) dark world of AI Dungeon
 
 Another student shared the link to Elias Hanzer's typeface generator, where you can alter the letters by selcting different typefaces and adjust the physical attributes through sliders. Below is an example of what I got playing around with!
 
+![](codewords.gif)
