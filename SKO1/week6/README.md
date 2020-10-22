@@ -38,6 +38,7 @@ END
 
 **Code of the week**
 
-This week we developed our work with type. We were taught how to add blocks of text and how apply it to basic mathematic formulas to make it move around the screen.
+This week we worked on our work with type. We were taught how to add blocks of text and how apply it to basic mathematic formulas to make the type move around the screen. This was really exciting as our work is slowely starting to develop from the very basic skills! Below is a sketch I developed from the one we made with Karen in class.
 
 ![](roundwego.gif)
+
