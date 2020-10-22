@@ -37,4 +37,4 @@ THEN get changed;
 END
 
 **Code of the week**
-
+This week we developed our work with type. We were taught how to add blocks of text, and to make it 
