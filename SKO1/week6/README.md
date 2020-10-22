@@ -4,6 +4,7 @@ Welcome to week 6! This weeks focus was paper prototypes and pseudocode. Initial
 
 ![](UNADJUSTEDNONRAW_thumb_27a4.jpg)
 
-I then made a paper prototype for what I wanted the final assignemnt end product  to look like. Price makes a statement within the first page stating 'Claiming new territory for practice' which, to me, encompasses the meaning behind the whole essay. He discusses how social pressures restrict modern art into the box, rather than outside. This concept is where my initial idea came from.
+I then made a paper prototype for what I wanted the final assignemnt end product  to look like. Price makes a statement within the first page stating 'Claiming new territory for practice' which, to me, encompasses the meaning behind the whole essay. He discusses how social pressures restrict modern art into the box, rather than outside. This concept is where my initial idea came from. My goal is to have each letter to spell out the quote 'Claiming new territory for practice' legible, before they fall and swivle around the box as the box rotates. 
 
+![](screenswivle.gif)
 
