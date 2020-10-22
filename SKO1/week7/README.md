@@ -15,6 +15,6 @@ This GIF caught my attention as I thought it could be something I could incorpor
 
 In class this week Karen showed us how to add sound to our sketch. I had not come across this yet in my research, and had no idea it was a possibility, so was very exciting to see how you can use it in the platform. We made this sketch below.
 
-
+![](dumdumdum.mp4)
 
 
