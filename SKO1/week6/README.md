@@ -37,4 +37,7 @@ THEN get changed;
 END
 
 **Code of the week**
-This week we developed our work with type. We were taught how to add blocks of text, and to make it 
+
+This week we developed our work with type. We were taught how to add blocks of text and how apply it to basic mathematic formulas to make it move around the screen.
+
+![](roundwego.gif)
