@@ -22,3 +22,5 @@ Phillipe Apeloig is a graphic designer who has been in the industry since the la
 This week we started our assignment, where we delved into the world of House of Leaves. My group consisted of Celia, Hamish, Fergus and myself, we were assigned chapter 4. We decided to explore this chapter through Club Penguin, it's been fun remeniscing on our childhood hours playing the games together! 
 
 ![](ClubPenguinwk2.png)
+
+[WEEK 1] (https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week1) [WEEK 3] (https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week3)
