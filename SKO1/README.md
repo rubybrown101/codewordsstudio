@@ -1,0 +1,9 @@
+**Welcome to my SKO!**
+
+‘Slave to the Algorithm’ has been a class unlike any I had taken before. To start off with, being the first full semester of online learning was quite a challenge for me! I learn best when bouncing off of other people and their ideas, and being taught in person when I can discuss with the teachers directly. The lack of that this sem was reflected in my work, and meant I wasn’t completely comfortable using the program. In saying that, Karen and Andy put in the extra effort to try to counteract the difficulties that come with online learning. It definitely shon through every class, and in between when we all emailed with so many questions. 
+
+Learning to use the coding platform p5.js was such a rewarding experience. Code is not something I ever thought I would learn (or need) to use, but I am so glad I have. The platform allows for so much freedom within design, and allows access to a whole new array of ways to express yourself as an artist. The essay I chose to depict is ‘Dispersion’ by Seth Price, where he discusses the ‘radically incomplete’ and sheltered art form of contemporary art. I chose this text because I thought it was the perfect fit to research electronic literature in order to display his opinion. 
+
+I have set up my SKO by week, above you will see folders labelled week 1 to week 12 in which I discuss what we did each week, what I learnt and my highs and lows. I show the p5.js sketches I was working on that week, and have supplied the links to view them for yourself. 
+
+I have thoroughly enjoyed this course, and always love being taught by Karen and Andy. Although there were definitely some bumps in the road because of online learning and my lack of skills with technology, I am very proud to present this to you, and hope you enjoy my journey over the past 12 weeks!
