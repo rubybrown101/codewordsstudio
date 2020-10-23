@@ -7,3 +7,4 @@ My goal this week was to really nail the class function, and make it work the wa
 
 ![](ballsfallingSS.png)
 
+[WEEK 8])https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week8) [WEEK 10](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week10)
