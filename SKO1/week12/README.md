@@ -4,4 +4,6 @@ A very daunting, yet exciting week! Its been a long 12 weeks, but reflecting on 
 
 My final sketch, named 'CLAIMED', is a lot simpler than I had initially wanted, but I am happy with the outcome. 
 
+![](
+
 
