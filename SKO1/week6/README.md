@@ -42,3 +42,4 @@ This week we worked on our work with type. We were taught how to add blocks of t
 
 ![](roundwego.gif)
 
+[WEEK 5](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week5) [WEEK 7](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week7)
