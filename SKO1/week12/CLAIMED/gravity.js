@@ -1,7 +1,3 @@
-//Original code adapted from 'the Coding Train' video '2.3: Simulating with Mass - The Nature of Code'
-//Code adapted by Jamie Tung
-//Code adapted by Karen Donachie 
-
 
 class Mover {
   constructor(x, y, m) {

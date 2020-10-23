@@ -158,6 +158,6 @@ let gravity = createVector(0, -2);
   fill(250);
   textFont(font);
   textSize (20);
-  text ('CLICK MOUSE TO CLAIM', -windowWidth/2, -windowHeight/2);
+  text ('HOLD DOWM MOUSE TO CLAIM', -windowWidth/2, -windowHeight/2);
 
 }
