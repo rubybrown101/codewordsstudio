@@ -5,3 +5,5 @@ Over the week I kept playing with the two sketches trying to morph them into one
 ![](SS1.png)
 
 A very frustrating week! Although it's not quite where I had hoped to be buy now, it is slightly heading towards what I envision my final project to look like. 
+
+[WEEK 9](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week9) [WEEK 11](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week11)
