@@ -13,4 +13,4 @@ Here the sketch works better visually, the colours are less in your face and wor
 
 Time to simplify further and see where we end up!
 
-[WEEK 10](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week10) [WEEK 12](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week12)
+[WEEK 10](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/WEEK10) [WEEK 12](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week12)
