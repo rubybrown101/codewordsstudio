@@ -6,4 +6,4 @@ Learning to use the coding platform p5.js was such a rewarding experience. Code 
 
 I have set up my SKO by week, above you will see folders labelled week 1 to week 12 in which I discuss what we did each week, what I learnt and my highs and lows. I show the p5.js sketches I was working on that week, and have supplied the links to view them for yourself. 
 
-I have thoroughly enjoyed this course, and always love being taught by Karen and Andy. Although there were definitely some bumps in the road because of online learning and my lack of skills with technology, I am very proud to present this to you, and hope you enjoy my journey over the past 12 weeks!
+I have thoroughly enjoyed this course, and always love being taught by Karen and Andy. Although there were definitely some bumps in the road because of online learning and my lack of skills with technology, I am very proud to present this to you, and hope you enjoy my journey over the past 12 weeks! Click [here](https://github.com/rubybrown101/codewordsstudio/blob/master/SKO1/week1/README.md) to go thropugh to my week 1 review!
