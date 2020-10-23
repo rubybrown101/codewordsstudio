@@ -12,3 +12,5 @@ This is where I was at the begining of class, I got the box to swivle with the m
 Here the sketch works better visually, the colours are less in your face and work together better. The words are also staying inside the box until you hold down your mouse (yay)! although dissapoitning, after a few weeks of being stressed I wouldn't figure out how to work the code the way I would like, it is very much a relief to accept the simplified version. 
 
 Time to simplify further and see where we end up!
+
+[WEEK 10](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week10) [WEEK 12](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week12)
