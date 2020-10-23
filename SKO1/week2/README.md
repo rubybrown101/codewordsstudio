@@ -23,4 +23,4 @@ This week we started our assignment, where we delved into the world of House of 
 
 ![](ClubPenguinwk2.png)
 
-[WEEK 1] (https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week1) [WEEK 3] (https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week3)
+[WEEK 1](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week1) [WEEK 3](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week3)
