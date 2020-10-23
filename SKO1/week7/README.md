@@ -14,8 +14,8 @@ This GIF caught my attention as I thought it could be something I could incorpor
 
 **Class Week 7**
 
-In class this week Karen showed us how to add sound to our sketch. I had not come across this yet in my research, and had no idea it was a possibility, so was very exciting to see how you can use it in the platform. We made this sketch below.
+In class this week Karen showed us how to add sound to our sketch. I had not come across this yet in my research, and had no idea it was a possibility, so was very exciting to see how you can use it in the platform. We made this sketch below in class, following Karens instructions ofcourse!
 
-![](dumdumdum.mp4)
+![](dum.gif)
 
 [WEEK 6](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week6) [WEEK 8](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week8)
