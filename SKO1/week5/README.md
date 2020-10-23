@@ -10,7 +10,7 @@ Although a little confronting, I loved how our chapter turned out. I think Ferg,
 
 **Coding**
 
-Finishing our first assignment this week, I started to focus on our final assignment. I combed through the p5.js website and watched a few of 'The Coding train's' you tube videos to give myself a better idea of what is possible on the platform. I really liked the mouseX mouseY factor and the ability to draw on your screen. I played around with the feature, eventually creating this sketch. Although quite simple, I was excited by this finding and hope to use it in my final assignment to some degree... We will see! Click [here](https://rubybrown101.github.io/codewordsstudio/SKO1/week5/drawingcreateCanvas/) to have a play around) 
+Finishing our first assignment this week, I started to focus on our final assignment. I combed through the p5.js website and watched a few of 'The Coding train's' you tube videos to give myself a better idea of what is possible on the platform. I really liked the mouseX mouseY factor and the ability to draw on your screen. I played around with the feature, eventually creating this sketch. Although quite simple, I was excited by this finding and hope to use it in my final assignment to some degree... We will see! Click [here](https://rubybrown101.github.io/codewordsstudio/SKO1/week5/drawingcreateCanvas/) to have a play around.
 
 ![](createCanvas.gif)
 
