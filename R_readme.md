@@ -1,2 +1,0 @@
-# codewordsstudio
-helloworld
