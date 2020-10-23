@@ -14,4 +14,4 @@ Finishing our first assignment this week, I started to focus on our final assign
 
 ![](createCanvas.gif)
 
-[WEEK 4](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week4) [WEEK 5](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week5)
+[WEEK 4](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week4) [WEEK 6](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week6)
