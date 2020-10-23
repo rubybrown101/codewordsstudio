@@ -11,4 +11,4 @@ Moving forward, I would like each letter to work as an individual object and bou
 
 This week in Karens 'Hour of Power' we worked with classes, which is what got me looking into it more after class! A class can also be described as a 'template' and allows more complicated sketches to be simplified, as several objects within the guidelines off of the class. I definitely understand what it is, and what it is supposed to do - but am still struggling to make the class work the way I want it to, which means more playing with p5.js! 
 
-
+[WEEK 7](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week7) [WEEK 9](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week9)
