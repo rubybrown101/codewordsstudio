@@ -15,3 +15,5 @@ Another student shared the link to Elias Hanzer's typeface generator, where you 
 **Assignment 2**
 
 As a group we explored Club Penguin as a platform, and continued to work through the chapter to see how we could tell the story in only 5 minutes. 
+
+[WEEK 2](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week2) [WEEK 4](https://github.com/rubybrown101/codewordsstudio/tree/master/SKO1/week4)
