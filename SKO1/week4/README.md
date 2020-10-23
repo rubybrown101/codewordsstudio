@@ -1,6 +1,6 @@
 **Week 4**
 
-This week in class we started working with type in p5.js. We learnt about the preload function which allowed us to use differnt typefaces within the sketch. This was really exciting for me, as it felt as though we were making movements in our learning! We were also introduced to the spinning feature, and were taught how to adjust it with radius and degrees. Below is my sketch of the week!
+This week in class we started working with type in p5.js. We learnt about the preload function which allowed us to use differnt typefaces within the sketch. This was really exciting for me, as it felt as though we were making movements in our learning! We were also introduced to the spinning feature, and were taught how to adjust it with radius and degrees. Below is my sketch of the week or click [here](https://rubybrown101.github.io/codewordsstudio/SKO1/week4/typetest)!
 
 ![](scallywags.gif)
 
